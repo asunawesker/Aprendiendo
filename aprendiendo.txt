@@ -9,3 +9,7 @@ Practicando hacer cambios 2
 Aprendiendo sobre "ramas" de github
 
 Anotando en la rama MASTER para ver que pasa si la modifico y tengo un branch
+master
+
+branch2
+Sigo aprendiendo sobre "ramas"
